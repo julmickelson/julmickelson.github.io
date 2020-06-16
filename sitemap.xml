@@ -1712,7 +1712,7 @@
   </url>
   <url>
     <loc>http://www.julianmickelson.com/resume.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1727,12 +1727,6 @@
     <image:image>
       <image:loc>http://www.julianmickelson.com/images/julian%20mickelson%20resume258x334_2x.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://www.julianmickelson.com/assets/trash-sensor.mp4</loc>
-    <lastmod>2020-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.julianmickelson.com/assets/trash-logo-black.png</loc>
@@ -1771,8 +1765,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.julianmickelson.com/assets/oos-video-cover.png</loc>
-    <lastmod>2018-06-29</lastmod>
+    <loc>http://www.julianmickelson.com/assets/phone-cassette-prototype.mp4</loc>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1783,8 +1777,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.julianmickelson.com/assets/phone-lift-proto-v1.mp4</loc>
-    <lastmod>2018-07-16</lastmod>
+    <loc>http://www.julianmickelson.com/assets/trash-sensor.mp4</loc>
+    <lastmod>2020-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1831,20 +1825,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.julianmickelson.com/assets/julian-mickelson-resume.pdf</loc>
+    <lastmod>2020-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.julianmickelson.com/assets/varichill-cad.webm</loc>
     <lastmod>2020-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.julianmickelson.com/assets/jm-logo-animation-fast.gif</loc>
-    <lastmod>2018-02-06</lastmod>
+    <loc>http://www.julianmickelson.com/assets/oos-video-cover.png</loc>
+    <lastmod>2018-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.julianmickelson.com/assets/julian-mickelson-resume.pdf</loc>
-    <lastmod>2020-05-29</lastmod>
+    <loc>http://www.julianmickelson.com/assets/jm-logo-animation-fast.gif</loc>
+    <lastmod>2018-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1945,7 +1945,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.julianmickelson.com/assets/phone-cassette-prototype.mp4</loc>
+    <loc>http://www.julianmickelson.com/assets/dial-proto-v1.mp4</loc>
     <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1957,7 +1957,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.julianmickelson.com/assets/dial-proto-v1.mp4</loc>
+    <loc>http://www.julianmickelson.com/assets/phone-lift-proto-v1.mp4</loc>
     <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

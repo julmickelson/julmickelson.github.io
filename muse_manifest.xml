@@ -1,59 +1,59 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.julianmickelson.com" resolutions="1x,2x" timestamp="1592331823660">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.julianmickelson.com" resolutions="1x,2x" timestamp="1592334926026">
   <folder name="css">
     <file name="site_global.css" crc="520730582"/>
-    <file name="master_main-master-black.css" crc="233798742" ref="resume:mav:cosmos-xr:about:helix-table:varichill:raceya:count:robockey:trash-sensor-simple:flip:trash-sensor:heat-engine"/>
-    <file name="nomq_preview_master_main-master-black.css" crc="60594946" ref="resume:mav:cosmos-xr:about:helix-table:varichill:raceya:count:robockey:trash-sensor-simple:flip:trash-sensor:heat-engine"/>
-    <file name="master_main-master-white.css" crc="224823463" ref="index"/>
-    <file name="nomq_preview_master_main-master-white.css" crc="205755616" ref="index"/>
-    <file name="trashslider2.css" crc="4066517211" ref="trashslider2"/>
+    <file name="master_main-master-black.css" crc="403128644" ref="helix-table:mav:cosmos-xr:about:varichill:raceya:trash-sensor-simple:resume:count:robockey:flip:trash-sensor:heat-engine"/>
+    <file name="nomq_preview_master_main-master-black.css" crc="60594946" ref="helix-table:mav:cosmos-xr:about:varichill:raceya:trash-sensor-simple:resume:count:robockey:flip:trash-sensor:heat-engine"/>
+    <file name="master_main-master-white.css" crc="185081890" ref="index"/>
+    <file name="nomq_preview_master_main-master-white.css" crc="2697173" ref="index"/>
     <file name="flipslider.css" crc="87133014" ref="flipslider"/>
-    <file name="resume.css" crc="3958488082" ref="resume"/>
-    <file name="nomq_resume.css" crc="397808415" ref="resume"/>
-    <file name="iefonts_resume.css" crc="3813138710" ref="resume"/>
-    <file name="trashslider1.css" crc="3960584487" ref="trashslider1"/>
-    <file name="engineslider.css" crc="4116577237" ref="engineslider"/>
-    <file name="mav.css" crc="410866706" ref="mav"/>
-    <file name="nomq_mav.css" crc="3846677191" ref="mav"/>
-    <file name="iefonts_mav.css" crc="3813138710" ref="mav"/>
-    <file name="cosmos-xr.css" crc="3887621124" ref="cosmos-xr"/>
-    <file name="nomq_cosmos-xr.css" crc="165973595" ref="cosmos-xr"/>
-    <file name="iefonts_cosmos-xr.css" crc="3813138710" ref="cosmos-xr"/>
-    <file name="about.css" crc="6026674" ref="about"/>
-    <file name="nomq_about.css" crc="380477026" ref="about"/>
-    <file name="iefonts_about.css" crc="3813138710" ref="about"/>
-    <file name="helix-table.css" crc="4281559917" ref="helix-table"/>
+    <file name="helix-table.css" crc="4119367792" ref="helix-table"/>
     <file name="nomq_helix-table.css" crc="308692873" ref="helix-table"/>
     <file name="iefonts_helix-table.css" crc="3813138710" ref="helix-table"/>
-    <file name="varichill.css" crc="172881204" ref="varichill"/>
+    <file name="trashslider1.css" crc="3960584487" ref="trashslider1"/>
+    <file name="engineslider.css" crc="4116577237" ref="engineslider"/>
+    <file name="mav.css" crc="4136188496" ref="mav"/>
+    <file name="nomq_mav.css" crc="3846677191" ref="mav"/>
+    <file name="iefonts_mav.css" crc="3813138710" ref="mav"/>
+    <file name="cosmos-xr.css" crc="4256595438" ref="cosmos-xr"/>
+    <file name="nomq_cosmos-xr.css" crc="165973595" ref="cosmos-xr"/>
+    <file name="iefonts_cosmos-xr.css" crc="3813138710" ref="cosmos-xr"/>
+    <file name="about.css" crc="270470208" ref="about"/>
+    <file name="nomq_about.css" crc="380477026" ref="about"/>
+    <file name="iefonts_about.css" crc="3813138710" ref="about"/>
+    <file name="index.css" crc="363594247" ref="index"/>
+    <file name="nomq_index.css" crc="4206302019" ref="index"/>
+    <file name="varichill.css" crc="4232017247" ref="varichill"/>
     <file name="nomq_varichill.css" crc="4105988000" ref="varichill"/>
     <file name="iefonts_varichill.css" crc="3813138710" ref="varichill"/>
-    <file name="raceya.css" crc="419549760" ref="raceya"/>
+    <file name="raceya.css" crc="4184258433" ref="raceya"/>
     <file name="nomq_raceya.css" crc="3927314224" ref="raceya"/>
     <file name="iefonts_raceya.css" crc="3813138710" ref="raceya"/>
-    <file name="index.css" crc="322849477" ref="index"/>
-    <file name="nomq_index.css" crc="4135872953" ref="index"/>
+    <file name="trash-sensor-simple.css" crc="402243990" ref="trash-sensor-simple"/>
+    <file name="nomq_trash-sensor-simple.css" crc="162510022" ref="trash-sensor-simple"/>
+    <file name="iefonts_trash-sensor-simple.css" crc="3813138710" ref="trash-sensor-simple"/>
+    <file name="resume.css" crc="474696936" ref="resume"/>
+    <file name="nomq_resume.css" crc="453573822" ref="resume"/>
+    <file name="iefonts_resume.css" crc="3813138710" ref="resume"/>
     <file name="varichillslider1.css" crc="4173357310" ref="varichillslider1"/>
-    <file name="count.css" crc="4028702439" ref="count"/>
+    <file name="count.css" crc="4346876" ref="count"/>
     <file name="nomq_count.css" crc="4257649054" ref="count"/>
     <file name="iefonts_count.css" crc="3813138710" ref="count"/>
-    <file name="robockey.css" crc="74245387" ref="robockey"/>
+    <file name="robockey.css" crc="188369049" ref="robockey"/>
     <file name="nomq_robockey.css" crc="3917003234" ref="robockey"/>
     <file name="iefonts_robockey.css" crc="3813138710" ref="robockey"/>
     <file name="countslider.css" crc="21557074" ref="countslider"/>
     <file name="varichillslider2.css" crc="4180906691" ref="varichillslider2"/>
-    <file name="trash-sensor-simple.css" crc="4208486547" ref="trash-sensor-simple"/>
-    <file name="nomq_trash-sensor-simple.css" crc="162510022" ref="trash-sensor-simple"/>
-    <file name="iefonts_trash-sensor-simple.css" crc="3813138710" ref="trash-sensor-simple"/>
-    <file name="flip.css" crc="4080490784" ref="flip"/>
+    <file name="flip.css" crc="340742407" ref="flip"/>
     <file name="nomq_flip.css" crc="4266097454" ref="flip"/>
     <file name="iefonts_flip.css" crc="3813138710" ref="flip"/>
-    <file name="trash-sensor.css" crc="257301204" ref="trash-sensor"/>
+    <file name="trash-sensor.css" crc="4109601961" ref="trash-sensor"/>
     <file name="nomq_trash-sensor.css" crc="4259804721" ref="trash-sensor"/>
     <file name="iefonts_trash-sensor.css" crc="3813138710" ref="trash-sensor"/>
     <file name="raceyaslider.css" crc="48253876" ref="raceyaslider"/>
-    <file name="heat-engine.css" crc="4129350327" ref="heat-engine"/>
+    <file name="heat-engine.css" crc="4239138181" ref="heat-engine"/>
     <file name="nomq_heat-engine.css" crc="3761897635" ref="heat-engine"/>
     <file name="iefonts_heat-engine.css" crc="3813138710" ref="heat-engine"/>
+    <file name="trashslider2.css" crc="4066517211" ref="trashslider2"/>
   </folder>
   <folder name="assets">
     <file name="varichill-logo.png" crc="203684484" seo="true" mt="1514932770000"/>
@@ -74,7 +74,6 @@
     <file name="2015-ahs-mav-student-challenge.mp4" crc="3964423671" seo="true" mt="1515101796000"/>
     <file name="helix-spin.mp4" crc="3800467446" seo="true" mt="1516045735000"/>
     <file name="helix-spin.webm" crc="516180988" seo="true" mt="1517779839000"/>
-    <file name="julian-mickelson-resume.pdf" crc="25795605" seo="true" mt="1590793547000"/>
     <file name="jm-logo-animation-fast.gif" crc="4292063684" seo="true" mt="1517984209000"/>
     <file name="oos-video-cover.png" crc="3809472499" seo="true" mt="1530292320000"/>
     <file name="out-of-sight.mp4" crc="3950724383" seo="true" mt="1530291892000"/>
@@ -95,6 +94,7 @@
     <file name="engine-video-cover.jpg" crc="265080360" seo="true" mt="1517202232000"/>
     <file name="homepage_video_v3.mp4" crc="4049906080" seo="true" mt="1591986868000"/>
     <file name="homepage_video_v3.webm" crc="3777944794" seo="true" mt="1591988206000"/>
+    <file name="julian-mickelson-resume.pdf" crc="433916444" seo="true" mt="1591984757000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:resume:about:raceya:robockey:flip:heat-engine:helix-table:mav:varichill:varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:count:trash-sensor-simple:countslider:trash-sensor:trashslider2:trashslider1:cosmos-xr"/>
@@ -851,7 +851,7 @@
     <file name="engine top-crop-u51737_2x2.png" crc="3981481316" seo="true" ref="heat-engine">
       <caption webpage="heat-engine" alt=""/>
     </file>
-    <file name="helix front-crop-u52433.png" crc="307574728" seo="true" ref="helix-table">
+    <file name="helix front-crop-u52433.png" crc="3876309695" seo="true" ref="helix-table">
       <caption webpage="helix-table" alt=""/>
     </file>
     <file name="helix hero.jpg" crc="3910070440" seo="true" ref="helix-table">
@@ -869,7 +869,7 @@
     <file name="helix fabrication-crop-u58448_2x.png" crc="78413723" seo="true" ref="helix-table">
       <caption webpage="helix-table" alt=""/>
     </file>
-    <file name="helix front-crop-u524332.png" crc="483755946" seo="true" ref="helix-table">
+    <file name="helix front-crop-u524332.png" crc="102581060" seo="true" ref="helix-table">
       <caption webpage="helix-table" alt=""/>
     </file>
     <file name="helix hero320x214.jpg" crc="243753595" seo="true" ref="helix-table">
@@ -1754,26 +1754,26 @@
       <caption webpage="cosmos-xr" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="487870873" seo="true" mt="1592331060431" redirect="true"/>
-  <file name="resume.html" crc="286880107" seo="true" mt="1592288305262" redirect="true"/>
-  <file name="about.html" crc="3944545719" seo="true" mt="1592288305262" redirect="true"/>
-  <file name="raceya.html" crc="241695430" seo="true" mt="1592288305262" redirect="true"/>
-  <file name="robockey.html" crc="485166292" seo="true" mt="1592288305262" redirect="true"/>
-  <file name="flip.html" crc="262917787" seo="true" mt="1592288305262" redirect="true"/>
-  <file name="heat-engine.html" crc="4222757413" seo="true" mt="1592288305262" redirect="true"/>
-  <file name="helix-table.html" crc="4058024257" seo="true" mt="1592288305262" redirect="true"/>
-  <file name="mav.html" crc="4169701036" seo="true" mt="1592288305262" redirect="true"/>
-  <file name="varichill.html" crc="3965906729" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="index.html" crc="3824434970" seo="true" mt="1592333971858" redirect="true"/>
+  <file name="resume.html" crc="51557403" seo="true" mt="1592334759677" redirect="true"/>
+  <file name="about.html" crc="3998443630" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="raceya.html" crc="402851389" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="robockey.html" crc="488143165" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="flip.html" crc="4079576881" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="heat-engine.html" crc="268054027" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="helix-table.html" crc="81044657" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="mav.html" crc="4004392062" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="varichill.html" crc="3885289452" seo="true" mt="1592288305262" redirect="true"/>
   <file name="varichillslider1.html" crc="3944438696" seo="true" mt="1517979888606" redirect="true"/>
   <file name="varichillslider2.html" crc="20721390" seo="true" mt="1517982454566" redirect="true"/>
   <file name="raceyaslider.html" crc="3943444141" seo="true" mt="1517981124033" redirect="true"/>
   <file name="flipslider.html" crc="43723850" seo="true" mt="1517983975975" redirect="true"/>
   <file name="engineslider.html" crc="435419624" seo="true" mt="1517984673756" redirect="true"/>
-  <file name="count.html" crc="457340514" seo="true" mt="1592331247206" redirect="true"/>
-  <file name="trash-sensor-simple.html" crc="4156563830" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="count.html" crc="334091186" seo="true" mt="1592331247206" redirect="true"/>
+  <file name="trash-sensor-simple.html" crc="3801362915" seo="true" mt="1592288305262" redirect="true"/>
   <file name="countslider.html" crc="4020277876" seo="true" mt="1531188776318" redirect="true"/>
-  <file name="trash-sensor.html" crc="4176111785" seo="true" mt="1592331384469" redirect="true"/>
+  <file name="trash-sensor.html" crc="3758532461" seo="true" mt="1592331384469" redirect="true"/>
   <file name="trashslider2.html" crc="49688977" seo="true" mt="1531774425646" redirect="true"/>
   <file name="trashslider1.html" crc="4143462764" seo="true" mt="1531774574219" redirect="true"/>
-  <file name="cosmos-xr.html" crc="4066130532" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="cosmos-xr.html" crc="126033233" seo="true" mt="1592288305262" redirect="true"/>
 </manifest>
