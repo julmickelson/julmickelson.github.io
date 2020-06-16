@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.julianmickelson.com" resolutions="1x,2x" timestamp="1592334926026">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.julianmickelson.com" resolutions="1x,2x" timestamp="1592335390875">
   <folder name="css">
     <file name="site_global.css" crc="520730582"/>
     <file name="master_main-master-black.css" crc="403128644" ref="helix-table:mav:cosmos-xr:about:varichill:raceya:trash-sensor-simple:resume:count:robockey:flip:trash-sensor:heat-engine"/>
@@ -31,8 +31,8 @@
     <file name="trash-sensor-simple.css" crc="402243990" ref="trash-sensor-simple"/>
     <file name="nomq_trash-sensor-simple.css" crc="162510022" ref="trash-sensor-simple"/>
     <file name="iefonts_trash-sensor-simple.css" crc="3813138710" ref="trash-sensor-simple"/>
-    <file name="resume.css" crc="474696936" ref="resume"/>
-    <file name="nomq_resume.css" crc="453573822" ref="resume"/>
+    <file name="resume.css" crc="4078595449" ref="resume"/>
+    <file name="nomq_resume.css" crc="4015884668" ref="resume"/>
     <file name="iefonts_resume.css" crc="3813138710" ref="resume"/>
     <file name="varichillslider1.css" crc="4173357310" ref="varichillslider1"/>
     <file name="count.css" crc="4346876" ref="count"/>
@@ -1755,7 +1755,7 @@
     </file>
   </folder>
   <file name="index.html" crc="3824434970" seo="true" mt="1592333971858" redirect="true"/>
-  <file name="resume.html" crc="51557403" seo="true" mt="1592334759677" redirect="true"/>
+  <file name="resume.html" crc="361253288" seo="true" mt="1592335185477" redirect="true"/>
   <file name="about.html" crc="3998443630" seo="true" mt="1592288305262" redirect="true"/>
   <file name="raceya.html" crc="402851389" seo="true" mt="1592288305262" redirect="true"/>
   <file name="robockey.html" crc="488143165" seo="true" mt="1592288305262" redirect="true"/>
