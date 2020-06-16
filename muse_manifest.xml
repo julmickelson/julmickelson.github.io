@@ -1,0 +1,1779 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.julianmickelson.com" resolutions="1x,2x" timestamp="1592331823660">
+  <folder name="css">
+    <file name="site_global.css" crc="520730582"/>
+    <file name="master_main-master-black.css" crc="233798742" ref="resume:mav:cosmos-xr:about:helix-table:varichill:raceya:count:robockey:trash-sensor-simple:flip:trash-sensor:heat-engine"/>
+    <file name="nomq_preview_master_main-master-black.css" crc="60594946" ref="resume:mav:cosmos-xr:about:helix-table:varichill:raceya:count:robockey:trash-sensor-simple:flip:trash-sensor:heat-engine"/>
+    <file name="master_main-master-white.css" crc="224823463" ref="index"/>
+    <file name="nomq_preview_master_main-master-white.css" crc="205755616" ref="index"/>
+    <file name="trashslider2.css" crc="4066517211" ref="trashslider2"/>
+    <file name="flipslider.css" crc="87133014" ref="flipslider"/>
+    <file name="resume.css" crc="3958488082" ref="resume"/>
+    <file name="nomq_resume.css" crc="397808415" ref="resume"/>
+    <file name="iefonts_resume.css" crc="3813138710" ref="resume"/>
+    <file name="trashslider1.css" crc="3960584487" ref="trashslider1"/>
+    <file name="engineslider.css" crc="4116577237" ref="engineslider"/>
+    <file name="mav.css" crc="410866706" ref="mav"/>
+    <file name="nomq_mav.css" crc="3846677191" ref="mav"/>
+    <file name="iefonts_mav.css" crc="3813138710" ref="mav"/>
+    <file name="cosmos-xr.css" crc="3887621124" ref="cosmos-xr"/>
+    <file name="nomq_cosmos-xr.css" crc="165973595" ref="cosmos-xr"/>
+    <file name="iefonts_cosmos-xr.css" crc="3813138710" ref="cosmos-xr"/>
+    <file name="about.css" crc="6026674" ref="about"/>
+    <file name="nomq_about.css" crc="380477026" ref="about"/>
+    <file name="iefonts_about.css" crc="3813138710" ref="about"/>
+    <file name="helix-table.css" crc="4281559917" ref="helix-table"/>
+    <file name="nomq_helix-table.css" crc="308692873" ref="helix-table"/>
+    <file name="iefonts_helix-table.css" crc="3813138710" ref="helix-table"/>
+    <file name="varichill.css" crc="172881204" ref="varichill"/>
+    <file name="nomq_varichill.css" crc="4105988000" ref="varichill"/>
+    <file name="iefonts_varichill.css" crc="3813138710" ref="varichill"/>
+    <file name="raceya.css" crc="419549760" ref="raceya"/>
+    <file name="nomq_raceya.css" crc="3927314224" ref="raceya"/>
+    <file name="iefonts_raceya.css" crc="3813138710" ref="raceya"/>
+    <file name="index.css" crc="322849477" ref="index"/>
+    <file name="nomq_index.css" crc="4135872953" ref="index"/>
+    <file name="varichillslider1.css" crc="4173357310" ref="varichillslider1"/>
+    <file name="count.css" crc="4028702439" ref="count"/>
+    <file name="nomq_count.css" crc="4257649054" ref="count"/>
+    <file name="iefonts_count.css" crc="3813138710" ref="count"/>
+    <file name="robockey.css" crc="74245387" ref="robockey"/>
+    <file name="nomq_robockey.css" crc="3917003234" ref="robockey"/>
+    <file name="iefonts_robockey.css" crc="3813138710" ref="robockey"/>
+    <file name="countslider.css" crc="21557074" ref="countslider"/>
+    <file name="varichillslider2.css" crc="4180906691" ref="varichillslider2"/>
+    <file name="trash-sensor-simple.css" crc="4208486547" ref="trash-sensor-simple"/>
+    <file name="nomq_trash-sensor-simple.css" crc="162510022" ref="trash-sensor-simple"/>
+    <file name="iefonts_trash-sensor-simple.css" crc="3813138710" ref="trash-sensor-simple"/>
+    <file name="flip.css" crc="4080490784" ref="flip"/>
+    <file name="nomq_flip.css" crc="4266097454" ref="flip"/>
+    <file name="iefonts_flip.css" crc="3813138710" ref="flip"/>
+    <file name="trash-sensor.css" crc="257301204" ref="trash-sensor"/>
+    <file name="nomq_trash-sensor.css" crc="4259804721" ref="trash-sensor"/>
+    <file name="iefonts_trash-sensor.css" crc="3813138710" ref="trash-sensor"/>
+    <file name="raceyaslider.css" crc="48253876" ref="raceyaslider"/>
+    <file name="heat-engine.css" crc="4129350327" ref="heat-engine"/>
+    <file name="nomq_heat-engine.css" crc="3761897635" ref="heat-engine"/>
+    <file name="iefonts_heat-engine.css" crc="3813138710" ref="heat-engine"/>
+  </folder>
+  <folder name="assets">
+    <file name="varichill-logo.png" crc="203684484" seo="true" mt="1514932770000"/>
+    <file name="varichill-cad.webm" crc="325448577" seo="true" mt="1591986154000"/>
+    <file name="raceya.mp4" crc="514304142" seo="true" mt="1515100062000"/>
+    <file name="raceya-video-cover.png" crc="4098084636" seo="true" mt="1515203881000"/>
+    <file name="raceya.webm" crc="429628372" seo="true" mt="1517521082000"/>
+    <file name="robockey-puck-finding.mp4" crc="3963511985" seo="true" mt="1517522844000"/>
+    <file name="robockey-puck-finding.webm" crc="4243626223" seo="true" mt="1517522777000"/>
+    <file name="robockey-puck-finding-cover.png" crc="3824718157" seo="true" mt="1517523037000"/>
+    <file name="flip-turning.mp4" crc="4284547325" seo="true" mt="1517621788000"/>
+    <file name="flip-logo.png" crc="321650641" seo="true" mt="1516683405000"/>
+    <file name="flip-light-up.mp4" crc="3803619450" seo="true" mt="1517528859000"/>
+    <file name="flip-light-up.webm" crc="124440093" seo="true" mt="1517529148000"/>
+    <file name="flip-light-up-cover.png" crc="231043529" seo="true" mt="1517529024000"/>
+    <file name="flip-turning.webm" crc="3997879363" seo="true" mt="1517621677000"/>
+    <file name="mav-video-cover.png" crc="316632230" seo="true" mt="1516140687000"/>
+    <file name="2015-ahs-mav-student-challenge.mp4" crc="3964423671" seo="true" mt="1515101796000"/>
+    <file name="helix-spin.mp4" crc="3800467446" seo="true" mt="1516045735000"/>
+    <file name="helix-spin.webm" crc="516180988" seo="true" mt="1517779839000"/>
+    <file name="julian-mickelson-resume.pdf" crc="25795605" seo="true" mt="1590793547000"/>
+    <file name="jm-logo-animation-fast.gif" crc="4292063684" seo="true" mt="1517984209000"/>
+    <file name="oos-video-cover.png" crc="3809472499" seo="true" mt="1530292320000"/>
+    <file name="out-of-sight.mp4" crc="3950724383" seo="true" mt="1530291892000"/>
+    <file name="trash-sensor.mp4" crc="4194942079" seo="true" mt="1592331238000"/>
+    <file name="trash-logo-black.png" crc="480587813" seo="true" mt="1530658365000"/>
+    <file name="trash-prox-sensor-demo-cover.png" crc="195244844" seo="true" mt="1530659003000"/>
+    <file name="trash-prox-sensor-demo.mp4" crc="531864008" seo="true" mt="1527790390000"/>
+    <file name="count-dial-wind-up-cover.png" crc="4059257424" seo="true" mt="1531163954000"/>
+    <file name="count-dial-wind-up.mp4" crc="4135338742" seo="true" mt="1531163846000"/>
+    <file name="clock-prototype.mp4" crc="4289428038" seo="true" mt="1531768538000"/>
+    <file name="phone-cassette-prototype.mp4" crc="120349886" seo="true" mt="1531768688000"/>
+    <file name="dial-proto-v1.mp4" crc="4147325719" seo="true" mt="1531769108000"/>
+    <file name="phone-lift-proto-v1.mp4" crc="235432402" seo="true" mt="1531769007000"/>
+    <file name="idesign-engineering-demo.mp4" crc="3967025844" seo="true" mt="1531770720000"/>
+    <file name="varichill-cad.m4v" crc="4020829241" seo="true" mt="1591986055000"/>
+    <file name="engine-video.mp4" crc="4117538069" seo="true" mt="1517622237000"/>
+    <file name="engine-video.webm" crc="71806654" seo="true" mt="1517622334000"/>
+    <file name="engine-video-cover.jpg" crc="265080360" seo="true" mt="1517202232000"/>
+    <file name="homepage_video_v3.mp4" crc="4049906080" seo="true" mt="1591986868000"/>
+    <file name="homepage_video_v3.webm" crc="3777944794" seo="true" mt="1591988206000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:resume:about:raceya:robockey:flip:heat-engine:helix-table:mav:varichill:varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:count:trash-sensor-simple:countslider:trash-sensor:trashslider2:trashslider1:cosmos-xr"/>
+    <file name="museutils.js" crc="4232573551" ref="index:resume:about:raceya:robockey:flip:heat-engine:helix-table:mav:varichill:varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:count:trash-sensor-simple:countslider:trash-sensor:trashslider2:trashslider1:cosmos-xr"/>
+    <file name="whatinput.js" crc="86476730" ref="index:resume:about:raceya:robockey:flip:heat-engine:helix-table:mav:varichill:varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:count:trash-sensor-simple:countslider:trash-sensor:trashslider2:trashslider1:cosmos-xr"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:resume:about:raceya:robockey:flip:heat-engine:helix-table:mav:varichill:varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:count:trash-sensor-simple:countslider:trash-sensor:trashslider2:trashslider1:cosmos-xr"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:resume"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:resume:about:raceya:robockey:flip:heat-engine:helix-table:mav:varichill:count:trash-sensor-simple:trash-sensor:cosmos-xr"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:resume:about:raceya:robockey:flip:heat-engine:helix-table:mav:varichill:varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:count:trash-sensor-simple:countslider:trash-sensor:trashslider2:trashslider1:cosmos-xr"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:resume:about:raceya:robockey:flip:heat-engine:helix-table:mav:varichill:varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:count:trash-sensor-simple:countslider:trash-sensor:trashslider2:trashslider1:cosmos-xr"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:resume:about:raceya:robockey:flip:heat-engine:helix-table:mav:varichill:count:trash-sensor-simple:trash-sensor:cosmos-xr"/>
+    <file name="require.js" crc="4234670167" ref="index:resume:about:raceya:robockey:flip:heat-engine:helix-table:mav:varichill:varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:count:trash-sensor-simple:countslider:trash-sensor:trashslider2:trashslider1:cosmos-xr"/>
+    <file name="webpro.js" crc="3770351119" ref="varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:countslider:trashslider2:trashslider1"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:countslider:trashslider2:trashslider1"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:countslider:trashslider2:trashslider1"/>
+    <file name="touchswipe.js" crc="3912873526" ref="varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:countslider:trashslider2:trashslider1"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4013019261" ref="index"/>
+    <file name="jm logo white.png" crc="3830415346" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jm logo white_2x.png" crc="3909615883" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jm logo blue.png" crc="193287722" ref="index:resume">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jm logo blue_2x.png" crc="366779986" ref="index:resume">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="count hero-crop-u101077.png" crc="4248706729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="count hero-crop-u101077_2x.png" crc="317920935" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="count cover-u101079-r-fr.png" crc="529989139" ref="index"/>
+    <file name="count cover-u101079-r-fr_2x.png" crc="453254879" ref="index"/>
+    <file name="count cover-u109103-r-fr.png" crc="117108520" ref="index"/>
+    <file name="count cover-u109103-r-fr_2x.png" crc="4083975454" ref="index"/>
+    <file name="cosmos xr hero-crop-u109103.png" crc="211327806" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cosmos xr hero-crop-u109103_2x.png" crc="494656256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cosmos xr cover-u109174-r-fr.png" crc="71390414" ref="index"/>
+    <file name="cosmos xr cover-u109174-r-fr_2x.png" crc="4130209041" ref="index"/>
+    <file name="trash hub pcb-crop-u101073.png" crc="4144268085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trash hub pcb-crop-u101073_2x.png" crc="248209105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trash sensor cover-u101075-r-fr.png" crc="38929112" ref="index"/>
+    <file name="trash sensor cover-u101075-r-fr_2x.png" crc="442146363" ref="index"/>
+    <file name="varichill render hero-crop-u4147.png" crc="4008876555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="varichill render hero-crop-u4147_2x.png" crc="3887060710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="varichill title-u78706-r-fr.png" crc="529363975" ref="index"/>
+    <file name="varichill title-u78706-r-fr_2x.png" crc="3997505269" ref="index"/>
+    <file name="raceya hero-crop-u12876.png" crc="4201465551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="raceya cover-u78723-r-fr.png" crc="4128908285" ref="index"/>
+    <file name="raceya cover-u78723-r-fr_2x.png" crc="3939426776" ref="index"/>
+    <file name="robockey hero-crop-u12970.png" crc="229379879" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robockey hero-crop-u12970_2x.png" crc="3965803539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robockey cover-u78734-r-fr.png" crc="3760389222" ref="index"/>
+    <file name="robockey cover-u78734-r-fr_2x.png" crc="203443628" ref="index"/>
+    <file name="flip hero image-crop-u12954.png" crc="28637206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flip hero image-crop-u12954_2x.png" crc="3858755182" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flip cover-u78835-r-fr.png" crc="3838839909" ref="index"/>
+    <file name="flip cover-u78835-r-fr_2x.png" crc="3888430766" ref="index"/>
+    <file name="helix front-crop-u43220.png" crc="4280048956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="helix table cover-u78846-r-fr.png" crc="179976594" ref="index"/>
+    <file name="helix table cover-u78846-r-fr_2x.png" crc="3806385706" ref="index"/>
+    <file name="engine hero-crop-u43292.png" crc="4210220610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="engine hero-crop-u43292_2x.png" crc="4181770207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="heat enginer cover-u78857-r-fr.png" crc="4109510204" ref="index"/>
+    <file name="heat enginer cover-u78857-r-fr_2x.png" crc="4067558890" ref="index"/>
+    <file name="mav hero-crop-u61193.png" crc="4129675722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mav hero-crop-u61193_2x.png" crc="4239719768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mav cover-u78868-r-fr.png" crc="4080772192" ref="index"/>
+    <file name="mav cover-u78868-r-fr_2x.png" crc="3762586230" ref="index"/>
+    <file name="jm logo blue500x293.png" crc="366779986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jm logo blue500x293_2x.png" crc="366779986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:resume:about:raceya:robockey:flip:heat-engine:helix-table:mav:varichill:varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:count:trash-sensor-simple:countslider:trash-sensor:trashslider2:trashslider1:cosmos-xr"/>
+    <file name="jm logo black.png" crc="4191892975" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="jm logo black_2x.png" crc="476212681" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="julian mickelson resume.jpg" crc="247649039" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="julian mickelson resume_2x.jpg" crc="3859987230" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="julian mickelson resume258x334.jpg" crc="3803609451" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="julian mickelson resume258x334_2x.jpg" crc="386824434" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="julian mickelson headshot-crop-u52763.png" crc="4053818466" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="julian mickelson headshot-crop-u52763_2x.png" crc="294898033" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="julian mickelson headshot-crop-u527632.png" crc="312396714" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="julian mickelson headshot-crop-u52763_2x2.png" crc="523267447" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="raceya hero-crop-u45787.png" crc="16012970" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya transmission.jpg" crc="478234100" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya suspension.jpg" crc="411097540" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya tires.jpg" crc="4212831959" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya module diagram.jpg" crc="4232208356" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya client feedback 1-crop-u46415.png" crc="4175633654" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya client feedback 2-crop-u46418.png" crc="3794316276" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya chassis prototype.jpg" crc="3771358933" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya thumbscrew prototype.jpg" crc="522674636" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya teardown.jpg" crc="3880974573" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya hero-crop-u457872.png" crc="3947707611" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya transmission153x102.jpg" crc="3834950865" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya suspension153x102.jpg" crc="469827107" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya tires153x102.jpg" crc="373436064" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya module diagram206x137.jpg" crc="4238230836" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya client feedback 1127x85.jpg" crc="142315420" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya client feedback 2127x85.jpg" crc="4074296460" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya chassis prototype127x85.jpg" crc="332273002" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya thumbscrew prototype127x85.jpg" crc="4019224874" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="raceya teardown258x156.jpg" crc="4126241516" seo="true" ref="raceya">
+      <caption webpage="raceya" alt=""/>
+    </file>
+    <file name="robockey top transparent-crop-u47584.png" crc="138654508" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey top transparent-crop-u47584_2x.png" crc="4231152354" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey hero-crop-u47815.png" crc="3846234356" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey hero-crop-u47815_2x.png" crc="520064253" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey front-crop-u48107.png" crc="3941793295" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey front-crop-u48107_2x.png" crc="4053437430" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey top.jpg" crc="83817250" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey top_2x.jpg" crc="4119768104" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey bottom-crop-u48145.png" crc="4082507458" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey bottom-crop-u48145_2x.png" crc="498888179" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey ir sensors-crop-u95454.png" crc="380628088" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey ir sensors-crop-u95454_2x.png" crc="168072246" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey matlab localization-crop-u95567.png" crc="4180934371" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey top transparent-crop-u475842.png" crc="3869208272" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey top transparent-crop-u47584_2x2.png" crc="4073799807" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey hero-crop-u478152.png" crc="4005071240" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey hero-crop-u47815_2x2.png" crc="421126735" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey front-crop-u481072.png" crc="3929236991" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey front-crop-u48107_2x2.png" crc="513634574" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey top126x127.jpg" crc="4246660422" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey top126x127_2x.jpg" crc="3830424244" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey bottom-crop-u481452.png" crc="4269657417" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey bottom-crop-u48145_2x2.png" crc="4080404366" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey ir sensors-crop-u954542.png" crc="3912643256" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey ir sensors-crop-u95454_2x2.png" crc="4032481268" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="robockey matlab localization-crop-u955672.png" crc="381594953" seo="true" ref="robockey">
+      <caption webpage="robockey" alt=""/>
+    </file>
+    <file name="flip hero image-crop-u48257.png" crc="480845509" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip hero image-crop-u48257_2x.png" crc="4102774614" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip spring illustration.png" crc="4068563401" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip spring illustration_2x.png" crc="439208803" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip summer illustration.png" crc="3807877662" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip summer illustration_2x.png" crc="3795072393" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip autumn illustration.png" crc="4137228972" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip autumn illustration_2x.png" crc="326779831" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip winter illustration.png" crc="4128241861" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip winter illustration_2x.png" crc="262856146" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 1.png" crc="4069595241" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 1_2x.png" crc="4271357531" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 2.png" crc="4103564095" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 2_2x.png" crc="4036745331" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 3.png" crc="128395556" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 3_2x.png" crc="3785506960" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 4.png" crc="344740749" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 4_2x.png" crc="527424322" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 5.png" crc="493778013" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 5_2x.png" crc="3977867520" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 6.png" crc="4279481629" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 6_2x.png" crc="25650219" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip spring leds-crop-u69244.png" crc="4048024714" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip spring leds-crop-u69244_2x.png" crc="4265190902" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip collab awards.jpg" crc="3817368798" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype rgb-crop-u68790.png" crc="141925985" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype rgb-crop-u68790_2x.png" crc="49319304" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype cat-crop-u68793.png" crc="3854695947" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype cat-crop-u68793_2x.png" crc="514492546" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype pig-crop-u70081.png" crc="454613463" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype pig-crop-u70081_2x.png" crc="4136666921" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype dog-crop-u70074.png" crc="3816452072" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype dog-crop-u70074_2x.png" crc="4016518823" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype chicken-crop-u70083.png" crc="453971671" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype chicken-crop-u70083_2x.png" crc="3799707353" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper sewing pattern.jpg" crc="3795314310" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper sewing pattern_2x.jpg" crc="270181431" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip hexagon layout drawing.jpg" crc="4066229832" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip hexagon layout drawing_2x.jpg" crc="4195889793" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip felt sewing pattern-crop-u70841.png" crc="3933185864" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip felt sewing pattern-crop-u70841_2x.png" crc="36743340" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip felt prototype-crop-u68801.png" crc="416610646" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip felt prototype-crop-u68801_2x.png" crc="330698437" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype green-crop-u71253.png" crc="301984626" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype green-crop-u71253_2x.png" crc="3910143944" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype blue-crop-u71256.png" crc="3873181336" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype blue-crop-u71256_2x.png" crc="206415801" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype yellow-crop-u71259.png" crc="6740418" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype yellow-crop-u71259_2x.png" crc="326516418" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype purple-crop-u71262.png" crc="3946057973" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype purple-crop-u71262_2x.png" crc="263765817" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip mdf prototype.jpg" crc="50693386" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip mdf prototype_2x.jpg" crc="4071921854" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip ninjaflex prototype.jpg" crc="4027766208" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip ninjaflex prototype_2x.jpg" crc="3839187166" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip cardboard prototype.jpg" crc="146922786" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip cardboard prototype_2x.jpg" crc="226876505" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip rubberband prototype-crop-u77470.png" crc="490347375" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip rubberband prototype-crop-u77470_2x.png" crc="69358890" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip fabric-cardstock prototype.jpg" crc="4065157368" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip fabric-cardstock prototype_2x.jpg" crc="126373990" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip fabric diamonds-crop-u68767.png" crc="3902668741" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip fabric diamonds-crop-u68767_2x.png" crc="4084622834" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip chain-crop-u77497.png" crc="285756121" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip leds interior-crop-u77593.png" crc="66325314" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip leds interior-crop-u77593_2x.png" crc="302125379" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip magnets.jpg" crc="3857944582" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip magnets_2x.jpg" crc="3871322635" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip lasercut layout.png" crc="3878313775" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip lasercut layout_2x.png" crc="459282359" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip hero image-crop-u482572.png" crc="245533726" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip hero image-crop-u48257_2x2.png" crc="105807327" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip spring illustration81x80.png" crc="3767999019" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip spring illustration81x80_2x.png" crc="405224462" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip summer illustration80x80.png" crc="137535344" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip summer illustration80x80_2x.png" crc="3903577739" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip autumn illustration81x80.png" crc="3970807616" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip autumn illustration81x80_2x.png" crc="4104099181" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip winter illustration80x80.png" crc="55793933" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip winter illustration80x80_2x.png" crc="4242452674" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 151x66.png" crc="88113957" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 151x66_2x.png" crc="4259375188" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 251x66.png" crc="361790292" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 251x66_2x.png" crc="4239179407" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 351x66.png" crc="33509826" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 351x66_2x.png" crc="216447775" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 451x66.png" crc="3968165548" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 451x66_2x.png" crc="3886436192" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 551x66.png" crc="411361781" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 551x66_2x.png" crc="3869955" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 651x66.png" crc="470066172" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip sewing pattern diamonds 651x66_2x.png" crc="228578172" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip spring leds-crop-u692442.png" crc="3873014581" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip spring leds-crop-u69244_2x2.png" crc="286577522" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip collab awards205x104.jpg" crc="241914682" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype rgb-crop-u687902.png" crc="439863613" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype rgb-crop-u68790_2x2.png" crc="4138158604" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype cat-crop-u687932.png" crc="4000054586" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype cat-crop-u68793_2x2.png" crc="4021288467" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype pig-crop-u700812.png" crc="108173343" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype pig-crop-u70081_2x2.png" crc="393798484" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype dog-crop-u700742.png" crc="443732181" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype dog-crop-u70074_2x2.png" crc="306600243" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype chicken-crop-u700832.png" crc="3879714168" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper prototype chicken-crop-u70083_2x2.png" crc="3831433015" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper sewing pattern127x169.jpg" crc="502069664" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip paper sewing pattern127x169_2x.jpg" crc="533875486" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip hexagon layout drawing127x169.jpg" crc="219170154" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip hexagon layout drawing127x169_2x.jpg" crc="87189220" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip felt sewing pattern-crop-u708412.png" crc="4093322315" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip felt sewing pattern-crop-u70841_2x2.png" crc="381611684" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip felt prototype-crop-u688012.png" crc="154520177" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip felt prototype-crop-u68801_2x2.png" crc="4152412100" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype green-crop-u712532.png" crc="4282168687" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype green-crop-u71253_2x2.png" crc="4091634586" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype blue-crop-u712562.png" crc="220478057" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype blue-crop-u71256_2x2.png" crc="4136906982" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype yellow-crop-u712592.png" crc="318631970" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype yellow-crop-u71259_2x2.png" crc="4068660964" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype purple-crop-u712622.png" crc="438822768" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip elastic prototype purple-crop-u71262_2x2.png" crc="4089350328" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip mdf prototype83x110.jpg" crc="416421557" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip mdf prototype83x110_2x.jpg" crc="510633024" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip ninjaflex prototype83x110.jpg" crc="332000928" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip ninjaflex prototype83x110_2x.jpg" crc="35716562" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip cardboard prototype83x110.jpg" crc="3859606612" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip cardboard prototype83x110_2x.jpg" crc="131131127" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip rubberband prototype-crop-u774702.png" crc="57482570" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip rubberband prototype-crop-u77470_2x2.png" crc="436016521" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip fabric-cardstock prototype127x95.jpg" crc="3834613941" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip fabric-cardstock prototype127x95_2x.jpg" crc="273194950" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip fabric diamonds-crop-u687672.png" crc="4832860" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip fabric diamonds-crop-u68767_2x2.png" crc="3971814958" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip chain-crop-u774972.png" crc="4177666263" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip leds interior-crop-u775932.png" crc="347813535" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip leds interior-crop-u77593_2x2.png" crc="4169099186" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip magnets152x114.jpg" crc="129289705" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip magnets152x114_2x.jpg" crc="15667198" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip lasercut layout126x126.png" crc="458969701" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="flip lasercut layout126x126_2x.png" crc="259391782" seo="true" ref="flip">
+      <caption webpage="flip" alt=""/>
+    </file>
+    <file name="engine hero-crop-u51400.png" crc="4181667941" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine hero-crop-u51400_2x.png" crc="3788304957" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine tail-crop-u51367.png" crc="4167576778" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine tail-crop-u51367_2x.png" crc="4100550319" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine render-crop-u52305.png" crc="100667232" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine linkage-crop-u51740.png" crc="3931492901" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine linkage-crop-u51740_2x.png" crc="3924640437" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine top-crop-u51737.png" crc="4200697271" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine top-crop-u51737_2x.png" crc="16019526" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine hero-crop-u514002.png" crc="3857783174" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine hero-crop-u51400_2x2.png" crc="3872355841" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine tail-crop-u513672.png" crc="240920795" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine tail-crop-u51367_2x2.png" crc="179008588" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine render-crop-u523052.png" crc="435282395" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine linkage-crop-u517402.png" crc="137813214" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine linkage-crop-u51740_2x2.png" crc="4254077321" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine top-crop-u517372.png" crc="17390466" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="engine top-crop-u51737_2x2.png" crc="3981481316" seo="true" ref="heat-engine">
+      <caption webpage="heat-engine" alt=""/>
+    </file>
+    <file name="helix front-crop-u52433.png" crc="307574728" seo="true" ref="helix-table">
+      <caption webpage="helix-table" alt=""/>
+    </file>
+    <file name="helix hero.jpg" crc="3910070440" seo="true" ref="helix-table">
+      <caption webpage="helix-table" alt=""/>
+    </file>
+    <file name="helix hero_2x.jpg" crc="4285030691" seo="true" ref="helix-table">
+      <caption webpage="helix-table" alt=""/>
+    </file>
+    <file name="helix front transparent-crop-u58423.png" crc="3955670887" seo="true" ref="helix-table">
+      <caption webpage="helix-table" alt=""/>
+    </file>
+    <file name="helix fabrication-crop-u58448.png" crc="4138433930" seo="true" ref="helix-table">
+      <caption webpage="helix-table" alt=""/>
+    </file>
+    <file name="helix fabrication-crop-u58448_2x.png" crc="78413723" seo="true" ref="helix-table">
+      <caption webpage="helix-table" alt=""/>
+    </file>
+    <file name="helix front-crop-u524332.png" crc="483755946" seo="true" ref="helix-table">
+      <caption webpage="helix-table" alt=""/>
+    </file>
+    <file name="helix hero320x214.jpg" crc="243753595" seo="true" ref="helix-table">
+      <caption webpage="helix-table" alt=""/>
+    </file>
+    <file name="helix hero320x214_2x.jpg" crc="263083748" seo="true" ref="helix-table">
+      <caption webpage="helix-table" alt=""/>
+    </file>
+    <file name="helix front transparent-crop-u584232.png" crc="3976268336" seo="true" ref="helix-table">
+      <caption webpage="helix-table" alt=""/>
+    </file>
+    <file name="helix fabrication-crop-u584482.png" crc="4090936058" seo="true" ref="helix-table">
+      <caption webpage="helix-table" alt=""/>
+    </file>
+    <file name="helix fabrication-crop-u58448_2x2.png" crc="91375416" seo="true" ref="helix-table">
+      <caption webpage="helix-table" alt=""/>
+    </file>
+    <file name="mav hero-crop-u60897.png" crc="165943801" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav hub iso-crop-u60869.png" crc="3957234384" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav prop diagram.jpg" crc="400728544" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav 3d printed mold.jpg" crc="384001555" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav 3d printed mold_2x.jpg" crc="115918129" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav prop-crop-u61148.png" crc="25712139" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav prop-crop-u61148_2x.png" crc="3835898962" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav hero-crop-u608972.png" crc="3912408505" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav hub iso-crop-u608692.png" crc="4172255021" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav prop diagram253x117.jpg" crc="3941954336" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav 3d printed mold127x127.jpg" crc="285119091" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav 3d printed mold127x127_2x.jpg" crc="4015128046" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav prop-crop-u611482.png" crc="4206544323" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="mav prop-crop-u61148_2x2.png" crc="171852733" seo="true" ref="mav">
+      <caption webpage="mav" alt=""/>
+    </file>
+    <file name="varichill render hero-crop-u74134.png" crc="325170156" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill render hero-crop-u74134_2x.png" crc="151077030" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill hero.jpg" crc="134414477" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill hero_2x.jpg" crc="3993319084" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill close up-crop-u74284.png" crc="4164207180" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill close up-crop-u74284_2x.png" crc="255952086" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill render tec labeled.jpg" crc="408080685" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill render tec labeled_2x.jpg" crc="4123760239" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill rack and pinion.gif" crc="4120047869" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill dual chamber chart.png" crc="4245730936" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill remote monitoring-crop-u74144.png" crc="3819270688" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill remote monitoring-crop-u74144_2x.png" crc="372674053" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill side component callouts.jpg" crc="4010560451" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill system block diagram.jpg" crc="388911524" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill ese awards dinner.jpg" crc="4102668300" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill single chamber prototype 1.jpg" crc="429948513" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill single chamber prototype 1_2x.jpg" crc="197959389" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill single chamber prototype 2.jpg" crc="8806412" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill single chamber prototype 2_2x.jpg" crc="4252319352" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill thermosiphon-crop-u75794.png" crc="4462957" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill thermosiphon-crop-u75794_2x.png" crc="3790681741" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill thermosiphon prototype-crop-u75940.png" crc="292362901" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill thermosiphon prototype-crop-u75940_2x.png" crc="226280615" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill sketch-crop-u75948.png" crc="251608433" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill sketch-crop-u75948_2x.png" crc="166146737" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill tec top-crop-u74292.png" crc="3774135800" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill tec top-crop-u74292_2x.png" crc="129853757" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill circulation fan.jpg" crc="492546745" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill circulation fan_2x.jpg" crc="3896259056" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill air duct-crop-u76169.png" crc="212540573" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill air duct-crop-u76169_2x.png" crc="13874518" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill insulation foam-crop-u76171.png" crc="259826280" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill insulation foam-crop-u76171_2x.png" crc="3932734328" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill plug-crop-u76173.png" crc="3955461586" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill plug-crop-u76173_2x.png" crc="4138918648" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill acrylic housing.jpg" crc="185907946" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill acrylic housing_2x.jpg" crc="3762312584" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill temp display-crop-u74140.png" crc="4178449236" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill temp display-crop-u74140_2x.png" crc="4252131910" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill breadboard-crop-u74278.png" crc="530374512" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill breadboard-crop-u74278_2x.png" crc="4126928613" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill interior front view.jpg" crc="499699694" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill interior front view_2x.jpg" crc="532173164" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill render hero-crop-u741342.png" crc="290096794" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill render hero-crop-u74134_2x2.png" crc="404001880" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill hero320x214.jpg" crc="4133216899" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill hero320x214_2x.jpg" crc="3838020435" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill close up-crop-u742842.png" crc="348515936" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill close up-crop-u74284_2x2.png" crc="4065605422" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill render tec labeled153x86.jpg" crc="4133370649" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill render tec labeled153x86_2x.jpg" crc="4167213255" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill dual chamber chart153x83.png" crc="401135376" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill remote monitoring-crop-u741442.png" crc="4282965177" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill remote monitoring-crop-u74144_2x2.png" crc="388791936" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill side component callouts205x125.jpg" crc="360140458" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill system block diagram191x86.jpg" crc="4019219331" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill ese awards dinner205x137.jpg" crc="57501254" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill single chamber prototype 1118x89.jpg" crc="4142334538" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill single chamber prototype 1118x89_2x.jpg" crc="278441634" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill single chamber prototype 2134x89.jpg" crc="3966656952" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill single chamber prototype 2134x89_2x.jpg" crc="418487462" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill thermosiphon-crop-u757942.png" crc="26662679" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill thermosiphon-crop-u75794_2x2.png" crc="3851877495" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill thermosiphon prototype-crop-u759402.png" crc="260242911" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill thermosiphon prototype-crop-u75940_2x2.png" crc="24199451" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill sketch-crop-u759482.png" crc="391876023" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill sketch-crop-u75948_2x2.png" crc="3910271683" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill tec top-crop-u742922.png" crc="4099507780" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill tec top-crop-u74292_2x2.png" crc="3877141131" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill circulation fan153x115.jpg" crc="2769892" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill circulation fan153x115_2x.jpg" crc="4290286165" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill air duct-crop-u761692.png" crc="4254897071" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill air duct-crop-u76169_2x2.png" crc="3905247274" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill insulation foam-crop-u761712.png" crc="17511181" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill insulation foam-crop-u76171_2x2.png" crc="92710098" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill plug-crop-u761732.png" crc="4265715803" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill plug-crop-u76173_2x2.png" crc="3894713558" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill acrylic housing153x115.jpg" crc="179124086" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill acrylic housing153x115_2x.jpg" crc="4181814907" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill temp display-crop-u741402.png" crc="3775623860" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill temp display-crop-u74140_2x2.png" crc="4269702837" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill breadboard-crop-u742782.png" crc="96704584" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill breadboard-crop-u74278_2x2.png" crc="100678725" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill interior front view101x141.jpg" crc="398625833" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill interior front view101x141_2x.jpg" crc="4026069483" seo="true" ref="varichill">
+      <caption webpage="varichill" alt=""/>
+    </file>
+    <file name="varichill render hero.jpg" crc="3958155675" seo="true" ref="varichillslider1">
+      <caption webpage="varichillslider1" alt=""/>
+    </file>
+    <file name="varichill render front.jpg" crc="445194805" seo="true" ref="varichillslider1">
+      <caption webpage="varichillslider1" alt=""/>
+    </file>
+    <file name="varichill render side.png" crc="3921638103" seo="true" ref="varichillslider1">
+      <caption webpage="varichillslider1" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="varichillslider1:varichillslider2:raceyaslider:flipslider:engineslider:countslider:trashslider2:trashslider1"/>
+    <file name="varichill cooling cycle 1.png" crc="515809202" seo="true" ref="varichillslider2">
+      <caption webpage="varichillslider2" alt=""/>
+    </file>
+    <file name="varichill cooling cycle 1_2x.png" crc="3970874243" seo="true" ref="varichillslider2">
+      <caption webpage="varichillslider2" alt=""/>
+    </file>
+    <file name="varichill cooling cycle 2.png" crc="4288283314" seo="true" ref="varichillslider2">
+      <caption webpage="varichillslider2" alt=""/>
+    </file>
+    <file name="varichill cooling cycle 2_2x.png" crc="327003436" seo="true" ref="varichillslider2">
+      <caption webpage="varichillslider2" alt=""/>
+    </file>
+    <file name="varichill cooling cycle 3.png" crc="3987339305" seo="true" ref="varichillslider2">
+      <caption webpage="varichillslider2" alt=""/>
+    </file>
+    <file name="varichill cooling cycle 3_2x.png" crc="322568715" seo="true" ref="varichillslider2">
+      <caption webpage="varichillslider2" alt=""/>
+    </file>
+    <file name="varichill cooling cycle 4.png" crc="4119055146" seo="true" ref="varichillslider2">
+      <caption webpage="varichillslider2" alt=""/>
+    </file>
+    <file name="varichill cooling cycle 4_2x.png" crc="4211720662" seo="true" ref="varichillslider2">
+      <caption webpage="varichillslider2" alt=""/>
+    </file>
+    <file name="raceya hero.jpg" crc="172324429" seo="true" ref="raceyaslider">
+      <caption webpage="raceyaslider" alt=""/>
+    </file>
+    <file name="raceya body wrap.jpg" crc="3803375899" seo="true" ref="raceyaslider">
+      <caption webpage="raceyaslider" alt=""/>
+    </file>
+    <file name="flip spring.jpg" crc="3906492313" seo="true" ref="flipslider">
+      <caption webpage="flipslider" alt=""/>
+    </file>
+    <file name="flip summer.jpg" crc="3899741334" seo="true" ref="flipslider">
+      <caption webpage="flipslider" alt=""/>
+    </file>
+    <file name="flip autumn.jpg" crc="4038085552" seo="true" ref="flipslider">
+      <caption webpage="flipslider" alt=""/>
+    </file>
+    <file name="flip winter.jpg" crc="3821442780" seo="true" ref="flipslider">
+      <caption webpage="flipslider" alt=""/>
+    </file>
+    <file name="engine front.jpg" crc="155633149" seo="true" ref="engineslider">
+      <caption webpage="engineslider" alt=""/>
+    </file>
+    <file name="engine back.jpg" crc="3924230886" seo="true" ref="engineslider">
+      <caption webpage="engineslider" alt=""/>
+    </file>
+    <file name="count phone sequence 1-crop-u100891.png" crc="4214849996" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count context hero blurred.jpg" crc="4128528657" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count phone sequence.gif" crc="3858800469" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count phone lift-crop-u102598.png" crc="440390433" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count phone lift-crop-u102598_2x.png" crc="3840621767" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count dial - color wheel mechanism-crop-u102787.png" crc="404220712" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count dial - color wheel mechanism-crop-u102787_2x.png" crc="312557376" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count electronics knoll-crop-u105125.png" crc="299677712" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count electronics knoll-crop-u105125_2x.png" crc="389552744" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count assembly animation.gif" crc="66844309" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count exploded view-crop-u103354.png" crc="4077902305" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count exploded view-crop-u103354_2x.png" crc="418462255" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count knoll.jpg" crc="34468833" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count knoll_2x.jpg" crc="3896936032" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count belly band - device.jpg" crc="57643124" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count belly band - device_2x.jpg" crc="335131842" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count packaging interior.jpg" crc="137949990" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count packaging interior_2x.jpg" crc="295765203" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count manual-crop-u103309.png" crc="102617539" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count manual-crop-u103309_2x.png" crc="3792933613" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="idesign finalists.png" crc="3892626881" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="post its.jpg" crc="4001026134" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="post its_2x.jpg" crc="4041183472" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="post its grouping-crop-u105814.png" crc="271380572" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="post its grouping-crop-u105814_2x.png" crc="360113717" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="interaction sketches-crop-u105840.png" crc="382940011" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="interaction sketches-crop-u105840_2x.png" crc="3844468840" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="interaction sketches 2-crop-u105951.png" crc="257264693" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="interaction sketches 2-crop-u105951_2x.png" crc="3540610" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="flow sketches-crop-u105874.png" crc="353063714" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="flow sketches-crop-u105874_2x.png" crc="19301715" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count sketches 3-crop-u105894.png" crc="4167367335" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count sketches 3-crop-u105894_2x.png" crc="4009511896" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="clock face sketches-crop-u105897.png" crc="4007665581" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="clock face sketches-crop-u105897_2x.png" crc="4270727046" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="appearance models-crop-u105975.png" crc="449025419" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="appearance models-crop-u105975_2x.png" crc="394992074" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="form exploration 2-crop-u105989.png" crc="3766812217" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="form exploration 2-crop-u105989_2x.png" crc="120861000" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count appearance model v1 unfinished-crop-u106040.png" crc="4223730502" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count appearance model v1 unfinished-crop-u106040_2x.png" crc="4033697863" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count appearance model v1-crop-u106042.png" crc="3921158285" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count appearance model v1-crop-u106042_2x.png" crc="480865695" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="unboxing-crop-u106100.png" crc="4217417154" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="unboxing-crop-u106100_2x.png" crc="3890029954" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="unboxing 2-crop-u106102.png" crc="4264482539" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="unboxing 2-crop-u106102_2x.png" crc="3896350083" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="packaging prototypes.jpg" crc="500239029" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="packaging prototypes_2x.jpg" crc="488624295" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="instruction manual print out-crop-u106122.png" crc="3783213533" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="instruction manual print out-crop-u106122_2x.png" crc="273431162" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="electronics layout-crop-u106150.png" crc="4136240273" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="electronics layout-crop-u106150_2x.png" crc="166307003" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count programming-crop-u106152.png" crc="3928646582" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count programming-crop-u106152_2x.png" crc="9790100" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="final presentation-crop-u106180.png" crc="390407586" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="final presentation-crop-u106180_2x.png" crc="3895778915" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="idesign presentation-crop-u106182.png" crc="491801437" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="idesign presentation-crop-u106182_2x.png" crc="162474048" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count phone sequence 1-crop-u1008912.png" crc="3894521868" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count context hero blurred320x180.jpg" crc="3932481223" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count phone lift-crop-u1025982.png" crc="348832286" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count phone lift-crop-u102598_2x2.png" crc="45436827" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count dial - color wheel mechanism153x102.png" crc="497877568" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count dial - color wheel mechanism153x102_2x.png" crc="229815162" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count electronics knoll-crop-u1051252.png" crc="3830636368" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count electronics knoll-crop-u105125_2x2.png" crc="3946629917" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count exploded view-crop-u1033542.png" crc="346313177" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count exploded view-crop-u103354_2x2.png" crc="4139116681" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count knoll258x194.jpg" crc="3923048988" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count knoll258x194_2x.jpg" crc="65961057" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count belly band - device127x85.jpg" crc="265427646" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count belly band - device127x85_2x.jpg" crc="4143994894" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count packaging interior127x85.jpg" crc="3972703663" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count packaging interior127x85_2x.jpg" crc="503098100" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count manual-crop-u1033092.png" crc="498500289" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count manual-crop-u103309_2x2.png" crc="140710438" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="idesign finalists205x137.png" crc="4080498098" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="post its118x89.jpg" crc="428257437" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="post its118x89_2x.jpg" crc="235629964" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="post its grouping-crop-u1058142.png" crc="163718196" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="post its grouping-crop-u105814_2x2.png" crc="3987212900" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="interaction sketches-crop-u1058402.png" crc="338674368" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="interaction sketches-crop-u105840_2x2.png" crc="4135146994" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="interaction sketches 2-crop-u1059512.png" crc="112031827" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="interaction sketches 2-crop-u105951_2x2.png" crc="214359204" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="flow sketches-crop-u1058742.png" crc="90828584" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="flow sketches-crop-u105874_2x2.png" crc="102817719" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count sketches 3-crop-u1058942.png" crc="3948528756" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count sketches 3-crop-u105894_2x2.png" crc="296713437" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="clock face sketches-crop-u1058972.png" crc="490677661" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="clock face sketches-crop-u105897_2x2.png" crc="4178404197" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="appearance models-crop-u1059752.png" crc="3859168455" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="appearance models-crop-u105975_2x2.png" crc="286475737" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="form exploration 2-crop-u1059892.png" crc="404566186" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="form exploration 2-crop-u105989_2x2.png" crc="463788048" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count appearance model v1 unfinished-crop-u1060402.png" crc="7353562" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count appearance model v1 unfinished-crop-u106040_2x2.png" crc="4153540740" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count appearance model v1-crop-u1060422.png" crc="3950072104" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count appearance model v1-crop-u106042_2x2.png" crc="4066176013" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="unboxing-crop-u1061002.png" crc="3918451259" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="unboxing-crop-u106100_2x2.png" crc="339938500" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="unboxing 2-crop-u1061022.png" crc="4264772664" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="unboxing 2-crop-u106102_2x2.png" crc="4070931549" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="packaging prototypes118x89.jpg" crc="476563807" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="packaging prototypes118x89_2x.jpg" crc="356600440" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="instruction manual print out-crop-u1061222.png" crc="3775580351" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="instruction manual print out-crop-u106122_2x2.png" crc="385693884" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="electronics layout-crop-u1061502.png" crc="4097199070" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="electronics layout-crop-u106150_2x2.png" crc="4181891010" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count programming-crop-u1061522.png" crc="3934997405" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="count programming-crop-u106152_2x2.png" crc="271551739" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="final presentation-crop-u1061802.png" crc="343200880" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="final presentation-crop-u106180_2x2.png" crc="247555692" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="idesign presentation-crop-u1061822.png" crc="4267909104" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="idesign presentation-crop-u106182_2x2.png" crc="117423799" seo="true" ref="count">
+      <caption webpage="count" alt=""/>
+    </file>
+    <file name="trash hero-crop-u101217.png" crc="4035996433" seo="true" ref="trash-sensor-simple">
+      <caption webpage="trash-sensor-simple" alt=""/>
+    </file>
+    <file name="trash context.jpg" crc="3881207561" seo="true" ref="trash-sensor-simple:trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+      <caption webpage="trash-sensor-simple" alt=""/>
+    </file>
+    <file name="trash context_2x.jpg" crc="282819112" seo="true" ref="trash-sensor-simple:trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+      <caption webpage="trash-sensor-simple" alt=""/>
+    </file>
+    <file name="trash hero-crop-u1012172.png" crc="506224918" seo="true" ref="trash-sensor-simple">
+      <caption webpage="trash-sensor-simple" alt=""/>
+    </file>
+    <file name="trash context320x180.jpg" crc="399016883" seo="true" ref="trash-sensor-simple">
+      <caption webpage="trash-sensor-simple" alt=""/>
+    </file>
+    <file name="trash context320x180_2x.jpg" crc="326242625" seo="true" ref="trash-sensor-simple">
+      <caption webpage="trash-sensor-simple" alt=""/>
+    </file>
+    <file name="count phone sequence 1.jpg" crc="4097850219" seo="true" ref="countslider">
+      <caption webpage="countslider" alt=""/>
+    </file>
+    <file name="count back.jpg" crc="429486216" seo="true" ref="countslider">
+      <caption webpage="countslider" alt=""/>
+    </file>
+    <file name="count top.jpg" crc="170706502" seo="true" ref="countslider">
+      <caption webpage="countslider" alt=""/>
+    </file>
+    <file name="count dial.jpg" crc="4066988740" seo="true" ref="countslider">
+      <caption webpage="countslider" alt=""/>
+    </file>
+    <file name="count button.jpg" crc="3866422552" seo="true" ref="countslider">
+      <caption webpage="countslider" alt=""/>
+    </file>
+    <file name="trash hero-crop-u104344.png" crc="4035996433" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash pcb-crop-u104333.png" crc="4280726722" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash pcb-crop-u104333_2x.png" crc="97990550" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash hub gif cropped.gif" crc="159973006" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash hub gif cropped_2x.gif" crc="159973006" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash dashboard.png" crc="4218478010" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash dashboard_2x.png" crc="264597543" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash code.png" crc="4189817170" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash code_2x.png" crc="45152212" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash block diagram.jpg" crc="358190438" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash block diagram_2x.jpg" crc="339260468" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash board breakdown.jpg" crc="4081942093" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash board breakdown_2x.jpg" crc="3768859235" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash hero-crop-u1043442.png" crc="506224918" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash pcb-crop-u1043332.png" crc="161112535" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash pcb-crop-u104333_2x2.png" crc="3957921799" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash dashboard153x105.png" crc="3906715190" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash dashboard153x105_2x.png" crc="4094552246" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash code152x91.png" crc="395429178" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash code152x91_2x.png" crc="4262725383" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash block diagram258x145.jpg" crc="102238393" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash block diagram258x145_2x.jpg" crc="183003609" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash board breakdown258x145.jpg" crc="300385420" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trash board breakdown258x145_2x.jpg" crc="3963536013" seo="true" ref="trash-sensor">
+      <caption webpage="trash-sensor" alt=""/>
+    </file>
+    <file name="trashboiz schematic 1.jpg" crc="190793436" seo="true" ref="trashslider2">
+      <caption webpage="trashslider2" alt=""/>
+    </file>
+    <file name="trashboiz schematic 2.jpg" crc="3819886384" seo="true" ref="trashslider2">
+      <caption webpage="trashslider2" alt=""/>
+    </file>
+    <file name="trashboiz schematic 3.jpg" crc="224778328" seo="true" ref="trashslider2">
+      <caption webpage="trashslider2" alt=""/>
+    </file>
+    <file name="trash hub iterations.jpg" crc="6875764" seo="true" ref="trashslider1">
+      <caption webpage="trashslider1" alt=""/>
+    </file>
+    <file name="trash module iterations.jpg" crc="230199120" seo="true" ref="trashslider1">
+      <caption webpage="trashslider1" alt=""/>
+    </file>
+    <file name="cosmos xr hero.jpg" crc="3852976467" seo="true" ref="cosmos-xr">
+      <caption webpage="cosmos-xr" alt=""/>
+    </file>
+    <file name="cosmos xr hero_2x.jpg" crc="4145655966" seo="true" ref="cosmos-xr">
+      <caption webpage="cosmos-xr" alt=""/>
+    </file>
+    <file name="img-coming-soon-xr-kv-l-crop-u108580.png" crc="320084457" seo="true" ref="cosmos-xr">
+      <caption webpage="cosmos-xr" alt=""/>
+    </file>
+    <file name="xr-crop-u110063.png" crc="345919038" seo="true" ref="cosmos-xr">
+      <caption webpage="cosmos-xr" alt=""/>
+    </file>
+    <file name="xr-crop-u110063_2x.png" crc="370238070" seo="true" ref="cosmos-xr">
+      <caption webpage="cosmos-xr" alt=""/>
+    </file>
+    <file name="_id1582204694_343178.png" crc="180622164" seo="true" ref="cosmos-xr">
+      <caption webpage="cosmos-xr" alt=""/>
+    </file>
+    <file name="cosmos xr hero171x107.jpg" crc="4180977494" seo="true" ref="cosmos-xr">
+      <caption webpage="cosmos-xr" alt=""/>
+    </file>
+    <file name="cosmos xr hero171x107_2x.jpg" crc="3777858018" seo="true" ref="cosmos-xr">
+      <caption webpage="cosmos-xr" alt=""/>
+    </file>
+    <file name="img-coming-soon-xr-kv-l-crop-u1085802.png" crc="136117665" seo="true" ref="cosmos-xr">
+      <caption webpage="cosmos-xr" alt=""/>
+    </file>
+    <file name="xr258x144.jpg" crc="3857327022" seo="true" ref="cosmos-xr">
+      <caption webpage="cosmos-xr" alt=""/>
+    </file>
+    <file name="xr258x144_2x.jpg" crc="158520385" seo="true" ref="cosmos-xr">
+      <caption webpage="cosmos-xr" alt=""/>
+    </file>
+    <file name="_id1582204694_343178258x145.png" crc="4026038758" seo="true" ref="cosmos-xr">
+      <caption webpage="cosmos-xr" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="487870873" seo="true" mt="1592331060431" redirect="true"/>
+  <file name="resume.html" crc="286880107" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="about.html" crc="3944545719" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="raceya.html" crc="241695430" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="robockey.html" crc="485166292" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="flip.html" crc="262917787" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="heat-engine.html" crc="4222757413" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="helix-table.html" crc="4058024257" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="mav.html" crc="4169701036" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="varichill.html" crc="3965906729" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="varichillslider1.html" crc="3944438696" seo="true" mt="1517979888606" redirect="true"/>
+  <file name="varichillslider2.html" crc="20721390" seo="true" mt="1517982454566" redirect="true"/>
+  <file name="raceyaslider.html" crc="3943444141" seo="true" mt="1517981124033" redirect="true"/>
+  <file name="flipslider.html" crc="43723850" seo="true" mt="1517983975975" redirect="true"/>
+  <file name="engineslider.html" crc="435419624" seo="true" mt="1517984673756" redirect="true"/>
+  <file name="count.html" crc="457340514" seo="true" mt="1592331247206" redirect="true"/>
+  <file name="trash-sensor-simple.html" crc="4156563830" seo="true" mt="1592288305262" redirect="true"/>
+  <file name="countslider.html" crc="4020277876" seo="true" mt="1531188776318" redirect="true"/>
+  <file name="trash-sensor.html" crc="4176111785" seo="true" mt="1592331384469" redirect="true"/>
+  <file name="trashslider2.html" crc="49688977" seo="true" mt="1531774425646" redirect="true"/>
+  <file name="trashslider1.html" crc="4143462764" seo="true" mt="1531774574219" redirect="true"/>
+  <file name="cosmos-xr.html" crc="4066130532" seo="true" mt="1592288305262" redirect="true"/>
+</manifest>
